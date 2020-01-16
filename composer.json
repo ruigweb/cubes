@@ -8,5 +8,10 @@
             "email": "david@ruigweb.nl"
         }
     ],
-    "require": {}
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Ruigweb\\Storage\\": "src"
+        }
+    }
 }
