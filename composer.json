@@ -1,0 +1,12 @@
+{
+    "name": "ruigweb/storage",
+    "description": "Ruigweb Storage Laravel Package",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Ruigrok van der Werven",
+            "email": "david@ruigweb.nl"
+        }
+    ],
+    "require": {}
+}
