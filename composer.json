@@ -1,6 +1,6 @@
 {
-    "name": "ruigweb/storage",
-    "description": "Ruigweb Storage Laravel Package",
+    "name": "ruigweb/cubes",
+    "description": "Ruigweb Cubes Laravel Package",
     "license": "MIT",
     "authors": [
         {
@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Ruigweb\\Storage\\": "src"
+            "Ruigweb\\Cubes\\": "src"
         }
     }
 }
