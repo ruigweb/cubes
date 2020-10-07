@@ -1,2 +1,2 @@
-# rw-storage
-Ruigweb Storage Laravel Package
+# RW Cubes
+Ruigweb Cubes Package
